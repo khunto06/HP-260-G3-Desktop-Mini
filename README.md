@@ -10,3 +10,4 @@ Conexant CX20632 Codec
 
 Wireless Realtek RTL8821CE not work
 
+Everything work, only wifi not work
