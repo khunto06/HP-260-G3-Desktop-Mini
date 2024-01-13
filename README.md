@@ -12,7 +12,7 @@ This is a macOS EFI for the HP 260 G3 Desktop Mini, Ventura and Sonoma compatibl
 * Audio - Conexant CX20724
 * Wi-Fi/Bluetooth - Realtek RTL8821CE (Not Work)
 * Ethernet - Realtek RTL8111HSH-CG
-* SSD NVME - KYO ULTIMATE K250 PCIe 3.0 NVME SSD 128GB M.2 NVMe Gen 3 x4 Heatsink
+* SSD NVME - KYO ULTIMATE K250 PCIe 3.0 128GB M.2 NVMe Gen 3 x4 Heatsink
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
 
