@@ -1,7 +1,8 @@
-# hp-260-G3-Deskto-Mini
+# hp-260-G3-Desktop-Mini
 A prebuilt Opencore EFI for macOS on the HP 260 G3 Desktop Mini
 
 This is a macOS EFI for the HP 260 G3 Desktop Mini, Ventura and Sonoma compatible.
+
 ![Screenshot](https://github.com/khunto06/HP-260-G3-Desktop-Mini/blob/main/01.png)
 ![Screenshot](https://github.com/khunto06/HP-260-G3-Desktop-Mini/blob/main/02.png)
 
@@ -14,24 +15,6 @@ This is a macOS EFI for the HP 260 G3 Desktop Mini, Ventura and Sonoma compatibl
 * SSD NVME - KYO ULTIMATE K250 PCIe 3.0 NVME SSD 128GB M.2 NVMe Gen 3 x4 Heatsink
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
-
-
-## Set bios settings as follows:
-* Security -> Intel Software Guard Extensions (SGX) -> Disable
-
-* Advanced -> Boot Options -> Uncheck “Fast Boot”
-
-* Advanced -> Boot Options -> Check “UEFI Boot Order”
-
-* Advanced -> Boot Options -> Uncheck “Legacy Boot Order”
-
-* Advanced -> Secure Boot Configuration -> Configure Legacy Support and Secure Boot -> Legacy Support Disable and Secure Boot Disable
-
-* Advanced -> System Options ->  Check “Hyperthreading”
-
-* Advanced -> System Options -> Check “Virtualization Technology (VTx)”
-
-* Advanced -> System Options -> Uncheck “Virtualization Technology for Directed I/O (VTd)”
 
 
 # Credits
